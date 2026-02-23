@@ -1,6 +1,12 @@
 ---
 name: minions-documents
-description: Versioned text documents, templates, and file attachments
+id: OC-0125
+version: 1.0.0
+description: "Versioned text documents, templates, and file attachments"
+category: productivity
+subcategory: notes
+tags: ["minion", "productivity", "notes"]
+comments:
 ---
 
 # minions-documents — Agent Skills
