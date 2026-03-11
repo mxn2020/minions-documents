@@ -1,0 +1,8 @@
+name: "@minions-documents/cli"
+project_scope: child
+child_type: cli
+parent_project: minions-documents-workspace
+description: "CLI for minions-documents — Versioned text documents, templates, and file attachments"
+priority: high
+deploy_url: null
+tags: null
