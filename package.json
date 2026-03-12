@@ -1,7 +1,7 @@
 {
   "name": "minions-documents-workspace",
   "private": true,
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Versioned text documents, templates, and file attachments",
   "type": "module",
   "license": "MIT",
